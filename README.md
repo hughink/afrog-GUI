@@ -1,4 +1,4 @@
-## afrog-GUI 一个简单的图形化工具，
+## afrog-GUI 一个简单的图形化工具
 #### 基于AI 用于 Afrog poc 的生成 管理 和测试，构建自己的漏洞库
 
 #### 实现
@@ -29,3 +29,5 @@
 ### 5、系统配置
 
 ![image](https://github.com/user-attachments/assets/432e39a7-6e33-4b61-9c62-956883dcac72)
+
+
